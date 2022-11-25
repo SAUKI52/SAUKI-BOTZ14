@@ -53,24 +53,24 @@ global.sig = '-' // ig
 global.sgh = '-' // github
 global.sgc = 'https://chat.whatsapp.com/LZYqzz7xXnt1BjM0NM1Xx9' // group whatsapp
 global.sdc = '-'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://youtube.com/channel/UC5I3OREWpf87XEXg5qTWB-g' // my youtube channel
 global.sfb = '-' // facebook
-global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.syt = 'https://youtube.com/channel/UC5I3OREWpf87XEXg5qTWB-g' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pdana = '085795490689' //dana
+global.povo = '085795490689' //ovo
+global.pgopay = '085795490689' //gopay
+global.plinkaja = '085795490689' //link aja
+global.ppulsa = '085795490689' //Indosat 
+global.ppulsa2 = '0895357313987' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.co/AchmadSauki''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6285864105650'
+global.nomorown = '62895357313987'
+global.namebot = 'SAUKI BOTZ'
+global.nameown = 'SAUKI OFFICIAL'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -85,9 +85,9 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['62895357313987', 'SAUKI OFFICIAL', true],
+  ['62895357313987', 'ISI KALAU ADA', true],
+  ['62895357313987', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
     //Ganti jd nomormu sama Namamu
